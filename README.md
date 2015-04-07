@@ -18,4 +18,4 @@ Table of Contents
 
 Slides built (primarily) with:
 
-[Reeal.js](https://github.com/hakimel/reveal.js/)
+[Reveal.js](https://github.com/hakimel/reveal.js/)
