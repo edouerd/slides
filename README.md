@@ -8,11 +8,11 @@ Slide Decks, presentations, and other misc. linear storytelling.
 
 Table of Contents
 
-1. tba
-2. tba
-3. tba
-4. tba
-5. tba
+1. [Slide Template — White]()
+2. [Slide Template — Black]()
+3. [Prototyping Slides]()
+4. [TBA](#)
+5. [TBA](#)
 
 —
 
