@@ -10,7 +10,7 @@ Table of Contents
 
 1. [Slide Template — White]()
 2. [Slide Template — Black]()
-3. [Prototyping Slides]()
+3. [DCPT Prototyping Slides](http://labs.edouard.us/slides/dcpt/dcpt.html#/)
 4. [TBA](#)
 5. [TBA](#)
 
